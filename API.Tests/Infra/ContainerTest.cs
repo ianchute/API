@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using API.Infra;
 using NUnit.Framework;
 using StructureMap;
 
-namespace API.Infra.Tests
+namespace API.Tests.Infra
 {
     [TestFixture]
     public class ContainerTest

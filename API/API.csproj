@@ -94,8 +94,6 @@
     <Compile Include="Infra\ContainerConfiguration.cs" />
     <Compile Include="Infra\DependencyResolver.cs" />
     <Compile Include="Infra\MapperConfiguration.cs" />
-    <Compile Include="Infra\Tests\ContainerTest.cs" />
-    <Compile Include="Infra\Tests\MapperTest.cs" />
     <Compile Include="Infra\WebApiConfig.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
