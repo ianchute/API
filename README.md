@@ -6,7 +6,8 @@ Seed Project for building Multi-tier ASP.NET Web API Applications
 It takes care of infrastructural concerns:
   1. IoC Container Configuration Class (StructureMap)
   2. Mapper Configuration Class (AutoMapper)
-  3. Configuration validation tests
+  3. Controller Dependecy Resolution (based on IoC Config Class)
+  4. Configuration validation tests
 
 It also has pre-created folders representing a multitier architecture, as follows:
   1. Data 
@@ -17,7 +18,8 @@ It also has pre-created folders representing a multitier architecture, as follow
 How to use:
  1. <b>git clone https://github.com/ianchute/API</b>
  2. Open <b>API.sln</b>
- 3. In the NuGet Console, execute:
+ 3. In the NuGet Console, execute:<br>
     <b>Update-Package</b>
 
-For any problems encountered, contact me at <i>ianchute@hotmail.com</i>.
+For any problems encountered, contact me at <i>ianchute@hotmail.com</i>.<br>
+LinkedIn: <a href="http://ph.linkedin.com/in/ianchute"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_liprofile_blue_80x15.png" width="80" height="15" border="0" alt="View Ian Chu Te's profile on LinkedIn"></a><br>
