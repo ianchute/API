@@ -2,10 +2,11 @@
 <b>Web API Seed Project</b>
 
 Seed Project for building Multi-tier ASP.NET Web API Applications
-<br>
+
+
 <b>Prerequisites:</b>
- Visual Studio 2013
- NUnit Test Adapater (for built-in config validation tests)
+  1. Visual Studio 2013
+  2. NUnit Test Adapater (for built-in config validation tests)
 
 <b>It takes care of infrastructural concerns:</b>
   1. IoC Container Configuration Class (StructureMap)
