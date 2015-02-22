@@ -7,7 +7,7 @@ namespace API.Infra
 {
     public class MapperConfiguration
     {
-        public static void Configure(AutoMapper.IConfiguration obj)
+        public static void Configure(AutoMapper.IConfiguration _)
         {
         }
     }

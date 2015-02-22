@@ -7,8 +7,12 @@ namespace API.Infra
 {
     public class ContainerConfiguration
     {
-        public static void Configure(StructureMap.ConfigurationExpression obj)
+        public static void Configure(StructureMap.ConfigurationExpression _)
         {
+            _.Scan((x) => {
+                x.Assembly("API");
+                x.WithDefaultConventions();
+            });
         }
     }
 }
