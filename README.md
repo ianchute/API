@@ -20,9 +20,9 @@ Seed Project for building Multi-tier ASP.NET Web API Applications
   4. Controllers
  
 <b>Other features:</b>
-1. CORS Support
-2. Shortened API path (e.g. api.com/{controller}/{id})
-3. Default convention in ContainerConfiguration
+  1. CORS Support
+  2. Shortened API path (e.g. api.com/{controller}/{id})
+  3. Default convention in ContainerConfiguration
 
 <b>How to use:</b>
  1. <b>git clone https://github.com/ianchute/API</b>
