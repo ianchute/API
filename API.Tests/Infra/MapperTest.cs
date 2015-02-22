@@ -25,7 +25,7 @@ namespace API.Tests.Infra
         }
 
         [Test]
-        public void Test()
+        public void MapperConfigurationMustBeValid()
         {
             Mapper.AssertConfigurationIsValid();
         }
